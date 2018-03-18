@@ -1,1 +1,3 @@
-<html><head></head><body>1</body></html>
+<?php
+  echo "1";
+?>
